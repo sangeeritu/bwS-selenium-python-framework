@@ -1,0 +1,10 @@
+[32mINFO    [0m WDM:logger.py:22 
+
+[32mINFO    [0m WDM:logger.py:12 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:12 Current google-chrome version is 111.0.5563
+[32mINFO    [0m WDM:logger.py:12 Get LATEST driver version for 111.0.5563
+[32mINFO    [0m WDM:logger.py:12 Driver [/Users/sangethalakshminarayanan/.wdm/drivers/chromedriver/mac64/111.0.5563.64/chromedriver] found in cache
+[32mINFO    [0m selenium:webdriver_listener.py:19 Navigating to http://www.demoblaze.com/
+[32mINFO    [0m selenium:webdriver_listener.py:22 http://www.demoblaze.com/ opened
+[32mINFO    [0m selenium:webdriver_listener.py:46 Driver quitting
+[32mINFO    [0m selenium:webdriver_listener.py:49 Driver quitted
